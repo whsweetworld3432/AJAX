@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/level_ajax_jquery/level_ajax_jquery.iml" filepath="$PROJECT_DIR$/level_ajax_jquery/level_ajax_jquery.iml" />
+      <module fileurl="file://$PROJECT_DIR$/queryInfo/queryInfo.iml" filepath="$PROJECT_DIR$/queryInfo/queryInfo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/全局刷新_BMI/全局刷新_BMI.iml" filepath="$PROJECT_DIR$/全局刷新_BMI/全局刷新_BMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/局部刷新刷新_BMI/局部刷新刷新_BMI.iml" filepath="$PROJECT_DIR$/局部刷新刷新_BMI/局部刷新刷新_BMI.iml" />
+    </modules>
+  </component>
+</project>
